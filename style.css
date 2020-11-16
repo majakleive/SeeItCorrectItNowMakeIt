@@ -198,7 +198,7 @@ span {
 
 /* Mindre skjerm */
 
-@media only screen and (max-width:600px) {
+@media only screen and (max-width:1000px) {
     
 .meny {
     background-color: white;
@@ -324,7 +324,7 @@ span {
 
 /* Enda mindre skjerm */
 
-@media only screen and (max-width:300px) {
+@media only screen and (max-width:700px) {
     
 .meny {
     background-color: white;
